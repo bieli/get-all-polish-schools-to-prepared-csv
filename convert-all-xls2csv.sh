@@ -10,6 +10,6 @@ do
 done
 
 echo "Removing dictionaries from CSV ..."
-rm ./data/csv/podzial_terytorialny.xls.csv
-rm ./data/csv/slowniki.xls.csv
+#rm ./data/csv/podzial_terytorialny.xls.csv
+#rm ./data/csv/slowniki.xls.csv
 
